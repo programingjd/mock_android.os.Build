@@ -5,7 +5,7 @@ public final class Build {
 
   public static class VERSION {
     
-    public static final SDK_INT = 23;
+    public static final int SDK_INT = 23;
 
   }
 
